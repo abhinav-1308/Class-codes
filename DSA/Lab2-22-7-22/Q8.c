@@ -1,0 +1,1 @@
+/*Q8. Write a program in C to reverse the elements of an array with in itself without taking anothar array.*/
