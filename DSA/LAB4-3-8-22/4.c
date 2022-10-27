@@ -1,0 +1,1 @@
+//WAP to arrange the elements of a dynamic array such that all even numbers are followed by all odd numbers.
